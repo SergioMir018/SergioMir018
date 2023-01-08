@@ -19,9 +19,9 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="C++" height="30" src="images/cpp.svg"></code>
+  <code><img title="Java" height="30" src="images/java-original.svg"></code>
+  <code><img title="GitHub" height="30" src="images/github.svg"></code>
 </p>
 <hr>
 
