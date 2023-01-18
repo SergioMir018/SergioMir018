@@ -19,9 +19,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="30" src="images/cpp.svg"></code>
-  <code><img title="Java" height="30" src="images/java-original.svg"></code>
-  <code><img title="GitHub" height="30" src="images/github.svg"></code>
+ <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 </p>
 <hr>
 
@@ -29,7 +27,7 @@
   </div>
   <br>
   <div align=center>
-    <a href="https://github.com/VoidTracer/github-readme-stats">
+    <a href="https://github.com/SergioMir018/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidTracer&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
 
