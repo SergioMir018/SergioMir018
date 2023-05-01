@@ -9,19 +9,11 @@
 <p align="center">
   Hi, I'm Sergio_Mir
   <br>
-  - 🌱 I’m currently learning Java
+  - 🌱 I’m currently learning Scala
   <br>
   - 📫 I’m currently studying Computer Science
   <br>
 </p>
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
- <img alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
- <img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
   </div>
