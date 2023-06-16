@@ -9,7 +9,7 @@
 <p align="center">
   Hi, I'm Sergio_Mir
   <br>
-  - 🌱 I’m currently learning Node/JavaScript/TypeScript/Express
+  - 🌱 I’m currently learning Node/JavaScript/TypeScript/Express/Angular/React
   <br>
   - 📫 I’m currently studying Computer Science
   <br>
