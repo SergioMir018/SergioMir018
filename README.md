@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sergio+Mir....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+Sergio+Mir....;Nice+to+meet+you!I+love+coding!+💻&center=true&size=30">
   </a>
 </h1>
 
@@ -9,7 +9,7 @@
 <p align="center">
   Hi, I'm Sergio_Mir
   <br>
-  - 🌱 I’m currently learning Node / TypeScript / React / Next.Js / Rust
+  - 🌱 I’m currently learning Node / TypeScript / Next.Js / Java
   <br>
   - 📫 I’m currently studying Computer Science
   <br>
