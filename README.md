@@ -57,7 +57,6 @@
                     </a>
 </p>
                     <h2 align="center">My GitHub Stats</h2>
-                    <p></p>
                     <p align="center">
                        <a
                       href="http://www.github.com/SergioMir018">
